@@ -1,1 +1,2 @@
-# AmazonCoupons
+# Coupon Analysis Findings
+
